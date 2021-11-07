@@ -14,7 +14,7 @@ ve@cath:~/gitdorkhelper$ ./x "paypal" dork_lists.txt paypal_output.html
 
 open output.html with browser :)
 
-Keyword from : https://github.com/obheda12/GitDorker/tree/master/Dorks
+ FaizOo
 
 Thanks
 
